@@ -1,0 +1,15 @@
+{
+  "name": "seo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^3.1.0",
+    "csv-parse": "^3.0.0"
+  }
+}
